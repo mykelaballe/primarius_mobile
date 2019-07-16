@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">C1ie5ogYkt6jJ-PHWJQjbCounoDHH1yXdSoCV</string>
+    <string name="app_name">Primarius Staffing</string>
+</resources>
